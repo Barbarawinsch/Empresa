@@ -10,11 +10,11 @@ package modelo;
  * @author Administrador
  */
 public class Empresa {
-    private int codigo;
+    private Integer codigo;
     private String nomefantasia;
     private String razaosocial;
 
-    public int getCodigo() {
+    public Integer getCodigo() {
         return codigo;
     }
 
